@@ -1,1 +1,1 @@
-export {default as CsvParser} from "./src/csv-parser.js";
+export {Parser as CsvParser} from "./src/parser.js";

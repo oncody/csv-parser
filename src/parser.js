@@ -1,6 +1,5 @@
-export default class CsvParser {
+class Parser {
     /**
-     *
      * @param {string} csv
      * @param {string[]} headers
      */
@@ -41,3 +40,5 @@ export default class CsvParser {
         return parsedData;
     }
 }
+
+export {Parser}
