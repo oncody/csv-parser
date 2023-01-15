@@ -1,9 +1,9 @@
 {
   "name": "@oncody/csv",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
-  "main": "index.js",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,8 +20,5 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/oncody/csv-parser/issues"
-  },
   "homepage": "https://github.com/oncody/csv-parser#readme"
 }
